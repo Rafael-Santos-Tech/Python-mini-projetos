@@ -1,0 +1,6 @@
+produto,preco,quantidade,vendas_mes,faturamento,Status
+Teclado,150.5,45,12,1806.0,Normal
+Mouse,89.9,120,35,3146.5,Normal
+Monitor,1200.0,15,4,4800.0,Caro/Baixa saída
+Headset,250.0,0,0,0.0,Caro/Baixa saída
+Webcam,310.2,30,8,2481.6,Caro/Baixa saída
