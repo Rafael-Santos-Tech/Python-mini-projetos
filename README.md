@@ -41,7 +41,7 @@ pip install pandas
 ```
 
 3. Navegue até a pasta da API.
-4.Instale o framework Flask:
+4. Instale o fremework Flask:
 ```bash
 pip install flask
 ```
