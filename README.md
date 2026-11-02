@@ -32,3 +32,20 @@ Para rodar qualquer um dos projetos localmente, certifique-se de ter o Python in
 **Clonando o repositório:**
 ```bash
 git clone https://github.com/Rafael-Santos-Tech/Python-mini-projetos.git
+````
+
+1. Navegue até a pasta do projeto de dados.
+2. Instale a biblioteca Pandas:
+```bash
+pip install pandas
+```
+
+3. Navegue até a pasta da API.
+4.Instale o framework Flask:
+```bash
+pip install flask
+```
+
+5. A API estará rodando localmente em 'http://127.0.0.1:5000'. Você pode testar as rotas utilizando softwares como **Thunder Client**, **Postman** ou o próprio **PowerShell**.
+
+*Desenvolvido por **Rafael Dos Santos Ferreira Lima** - Estudante de Análise e Desenvolvimento de Sistemas (ADS).*
