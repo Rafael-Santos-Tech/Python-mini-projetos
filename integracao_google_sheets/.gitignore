@@ -1,0 +1,21 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Credenciais e tokens (inclusive em subpastas)
+credentials.json
+authorized_user.json
+*.secret.json
+.env
+.env.*
+!.env.example
+
+# Cache e temporários
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.zip
+
+# Arquivos locais de editores
+.idea/
